@@ -1,1 +1,1 @@
-# go_tour
+# A Tour of Go
